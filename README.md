@@ -1,3 +1,5 @@
+# Moved to: https://github.com/vtex/javascript
+
 # `@vtex/prettier-config`
 
 This package provides VTEX's `.prettierrc` shared config.
